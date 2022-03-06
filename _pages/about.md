@@ -17,7 +17,19 @@ and working in econometric forecasting in Switzerland, I graduated on the Dean's
 developed novel decentralised systems and consensus protocols before I flipped the coin and started to optimise agent's behaviours within
 an environment during my PhD.  
 
-Note that the remainder of this site is still WIP. Until then please refer to my [google scholar](https://scholar.google.com/citations?user=Ian_c5AAAAAJ&hl=en) and [university profile page](https://rl.uni-freiburg.de/people/honerkamp) for recent works.
+[//]: # (Note that the remainder of this site is still WIP. Until then please refer to my [google scholar]&#40;https://scholar.google.com/citations?user=Ian_c5AAAAAJ&hl=en&#41; and [university profile page]&#40;https://rl.uni-freiburg.de/people/honerkamp&#41; for recent works.)
+
+# Publications
+
+Honerkamp, D., Welschehold, T., & Valada, A. (2021). [Learning kinematic feasibility for mobile manipulation through deep reinforcement learning](http://kinematic-rl.cs.uni-freiburg.de/). IEEE Robotics and Automation Letters, 6(4), 6289-6296.
+
+Younes*, A., Honerkamp*, D., Welschehold, T., & Valada, A. (2021). [Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds](http://dav-nav.cs.uni-freiburg.de). arXiv preprint arXiv:2111.14843.
+
+Abram, M., Galindo, D., Honerkamp, D., Ward, J., & Wong, J. M. (2020). Democratising blockchain: A minimal agency consensus model. arXiv preprint arXiv:2006.05390.
+
+# Other
+
+Younes*, A., Honerkamp*, D., Welschehold, T., & Valada, A. SoundSpaces Challenge - 1st Place. Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2021.
 
 [//]: # (A data-driven personal website)
 
