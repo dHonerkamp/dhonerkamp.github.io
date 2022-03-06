@@ -21,9 +21,9 @@ an environment during my PhD.
 
 # Publications
 
-Honerkamp, D., Welschehold, T., & Valada, A. (2021). [Learning kinematic feasibility for mobile manipulation through deep reinforcement learning](http://kinematic-rl.cs.uni-freiburg.de/). IEEE Robotics and Automation Letters, 6(4), 6289-6296.
-
 Younes*, A., Honerkamp*, D., Welschehold, T., & Valada, A. (2021). [Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds](http://dav-nav.cs.uni-freiburg.de). arXiv preprint arXiv:2111.14843.
+
+Honerkamp, D., Welschehold, T., & Valada, A. (2021). [Learning kinematic feasibility for mobile manipulation through deep reinforcement learning](http://kinematic-rl.cs.uni-freiburg.de/). IEEE Robotics and Automation Letters, 6(4), 6289-6296.
 
 Abram, M., Galindo, D., Honerkamp, D., Ward, J., & Wong, J. M. (2020). Democratising blockchain: A minimal agency consensus model. arXiv preprint arXiv:2006.05390.
 
