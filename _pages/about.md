@@ -10,15 +10,14 @@ redirect_from:
 
 I am a PhD student at the ELLIS [Robot Learning Lab](https://rl.uni-freiburg.de/) at the University of Freiburg. My
 research interests are focused on reinforcement learning, embodied AI and robotics, though much more broadly I am
-interested in a broad range of topics such as decision making, planning, multi-agent systems among others.
+interested in topics including, but not limited to, decision making, planning and multi-agent systems.
 
-In the past I have been working across all aspects of autonomous agents and their environments. After studying economics
-and working in econometric forecasting I studied machine learning and reinforcement learning at University College
-London, graduating from the MSc Computational Statistics and Machine Learning with Dean's List honors. I then first
-developed decentralised systems and consensus protocols before flipping the coin and starting to optimise agent's within
-an environment.  
+In the past I have worked across all aspects of autonomous agents and their environments. After studying economics
+and working in econometric forecasting in Switzerland, I graduated on the Dean's List of the MSc Computational Statistics and Machine Learning at University College London. I then
+developed novel decentralised systems and consensus protocols before I flipped the coin and started to optimise agent's behaviours within
+an environment during my PhD.  
 
-Note that the remainder of this site is still WIP.
+Note that the remainder of this site is still WIP. Until then please refer to my [google scholar](https://scholar.google.com/citations?user=Ian_c5AAAAAJ&hl=en) and [university profile page](https://rl.uni-freiburg.de/people/honerkamp) for recent works.
 
 [//]: # (A data-driven personal website)
 
