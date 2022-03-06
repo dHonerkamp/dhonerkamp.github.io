@@ -8,9 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the ELLIS [Robot Learning Lab](https://rl.uni-freiburg.de/) at the University of Freiburg. My research interests are focused on reinforcement learning, embodied AI and robotics, though much more broadly I am interested in a broad range of topics such as decision making, planning, multi-agent systems among others.
+I am a PhD student at the ELLIS [Robot Learning Lab](https://rl.uni-freiburg.de/) at the University of Freiburg. My
+research interests are focused on reinforcement learning, embodied AI and robotics, though much more broadly I am
+interested in a broad range of topics such as decision making, planning, multi-agent systems among others.
 
-Note that this site is still WIP.
+In the past I have been working across all aspects of autonomous agents and their environments. After studying economics
+and working in econometric forecasting I studied machine learning and reinforcement learning at University College
+London, graduating from the MSc Computational Statistics and Machine Learning with Dean's List honors. I then first
+developed decentralised systems and consensus protocols before flipping the coin and starting to optimise agent's within
+an environment.  
+
+Note that the remainder of this site is still WIP.
 
 [//]: # (A data-driven personal website)
 
