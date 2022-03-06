@@ -29,7 +29,7 @@ Abram, M., Galindo, D., Honerkamp, D., Ward, J., & Wong, J. M. (2020). Democrati
 
 # Other
 
-Younes*, A., Honerkamp*, D., Welschehold, T., & Valada, A. SoundSpaces Challenge - 1st Place. Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2021.
+Younes, A., Honerkamp, D., Welschehold, T., & Valada, A. SoundSpaces Challenge - 1st Place. Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2021.
 
 [//]: # (A data-driven personal website)
 
