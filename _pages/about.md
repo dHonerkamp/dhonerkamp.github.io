@@ -21,7 +21,7 @@ an environment during my PhD.
 
 # Publications
 
-Younes*, A., Honerkamp*, D., Welschehold, T., & Valada, A. (2021). [Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds](http://dav-nav.cs.uni-freiburg.de). arXiv preprint arXiv:2111.14843.
+Younes\*, A., Honerkamp\*, D., Welschehold, T., & Valada, A. (2021). [Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds](http://dav-nav.cs.uni-freiburg.de). arXiv preprint arXiv:2111.14843.
 
 Honerkamp, D., Welschehold, T., & Valada, A. (2021). [Learning kinematic feasibility for mobile manipulation through deep reinforcement learning](http://kinematic-rl.cs.uni-freiburg.de/). IEEE Robotics and Automation Letters, 6(4), 6289-6296.
 
