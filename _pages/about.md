@@ -21,15 +21,40 @@ an environment during my PhD.
 
 # Publications
 
-Younes\*, A., Honerkamp\*, D., Welschehold, T., & Valada, A. (2021). [Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds](http://dav-nav.cs.uni-freiburg.de). arXiv preprint arXiv:2111.14843.
+[Zero‑Cost Whole‑Body Teleoperation for Mobile Manipulation](http://moma-teleop.cs.uni-freiburg.de/), Daniel Honerkamp\∗, Harsh Mahesheka\∗, Jan Ole Hartz, Tim Welschehold, Abhinav Valada, arXiv preprint arXiv:2409.15095, 2024.
 
-Honerkamp, D., Welschehold, T., & Valada, A. (2021). [Learning kinematic feasibility for mobile manipulation through deep reinforcement learning](http://kinematic-rl.cs.uni-freiburg.de/). IEEE Robotics and Automation Letters, 6(4), 6289-6296.
+[Language‑Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation](http://moma-llm.cs.uni-freiburg.de/), Daniel Honerkamp\∗, Martin Büchner\∗, Fabien Despinoy, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters, presentation at ICRA, 2024.
 
-Abram, M., Galindo, D., Honerkamp, D., Ward, J., & Wong, J. M. (2020). Democratising blockchain: A minimal agency consensus model. arXiv preprint arXiv:2006.05390.
+[Recent Trends in Insect and Robot Navigation through the Lens of Reinforcement Learning](https://arxiv.org/abs/2406.01501), Stephan Lochner, Daniel Honerkamp, Abhinav Valada, Andrew D Straw, Frontiers in Computational Neuroscience, 2024.
 
-# Other
+[Perception Matters: Enhancing Embodied AI with Uncertainty‑Aware Semantic Segmentation](http://semantic-search.cs.uni-freiburg.de/), Sai Prasanna\∗, Daniel Honerkamp\∗, Kshitij Sirohi\∗, Tim Welschehold, Wolfram Burgard, Abhinav Valada, Proceedings of the International Symposium on Robotics Research (ISRR), 2024.
 
-Younes, A., Honerkamp, D., Welschehold, T., & Valada, A. SoundSpaces Challenge - 1st Place. Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2021.
+[N\2M\2: Learning Navigation for Arbitrary Mobile Manipulation Motions in Unseen and Dynamic Environments](http://mobile-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, IEEE Transactions on Robotics (T‑RO), presentated at ICRA, 2023.
+
+[Learning Hierarchical Interactive Multi‑Object Search for Mobile Manipulation](http://himos.cs.uni-freiburg.de/), Fabian Schmalstieg\∗, Daniel Honerkamp\∗, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters (RA‑L), presentated at ICRA, 2023.
+
+[Catch Me if You Hear Me: Audio‑Visual Navigation in Complex Unmapped Environments With Moving Sounds](http://dav-nav.cs.uni-freiburg.de/), Abdelrahman Younes\∗, Daniel Honerkamp\∗, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters (RA‑L), presentated at IROS, 2023.
+
+[Learning Long‑Horizon Robot Exploration Strategies for Multi‑Object Search in Continuous Action Spaces](http://multi-object-search.cs.uni-freiburg.de/), Fabian Schmalstieg\∗, Daniel Honerkamp\∗, Tim Welschehold, Abhinav Valada, Robotics Research, presented at ISRR, 2022.
+
+[Active Particle Filter Networks: Efficient Active Localization in Continuous Action Spaces and Large Maps](http://apfn.cs.uni-freiburg.de/), Daniel Honerkamp, Suresh Guttikonda, Abhinav Valada, IROS Workshop on Probabilistic Robotics in the Age of Deep Learning, 2022.
+
+[Learning Kinematic Feasibility for Mobile Manipulation through Deep Reinforcement Learning](http://kinematic-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters (RA‑L), 2021.
+
+Democratising blockchain: A minimal agency consensus model, Marcin Abram, Daniel Honerkamp, Jon Ward, Jin‑Mann Wong,
+Proceedings of Tokenomics International Conference on Blockchain Economics, Security and Protocols, 2019.
+
+# Prices and Awards
+
+[3rd place Futureprice (”Zukunftspreis”)](https://www.stiftung-ewaldmarquardt.de/de/der_zukunftspreis/preisverleihung_2023), Ewald Marquardt Foundation, 5,000 EUR. For progress and innovation in the generation and coordination of mobile manipulation motions, 2023.
+
+[Best Paper Award](https://mobile-manipulation.net/events/moma2022/), IROS 2022 Workshop on Mobile Manipulation and Embodied Intelligence, 2022.
+
+[SoundSpaces Challenge - 2nd Place](https://soundspaces.org/challenge). Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2022.
+
+[SoundSpaces Challenge - 1st Place](https://soundspaces.org/challenge). Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2021.
+
+Dean’s List Award, University College London (UCL), 2018. 
 
 [//]: # (A data-driven personal website)
 
