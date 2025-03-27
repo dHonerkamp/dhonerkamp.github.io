@@ -29,7 +29,7 @@ an environment during my PhD.
 
 [Whole‑Body Teleoperation for Mobile Manipulation at Zero Added Cost](https://moma-teleop.cs.uni-freiburg.de/), Daniel Honerkamp\*, Harsh Mahesheka\*, Jan Ole Hartz, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2025.
 
-[Language‑Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation](https://moma-llm.cs.uni-freiburg.de/), Daniel Honerkamp\*, Martin Büchner\*, Fabien Despinoy, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2024.
+<img style="float: right;" src="images/moma-llm.png" height="200"> [Language‑Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation](https://moma-llm.cs.uni-freiburg.de/), Daniel Honerkamp\*, Martin Büchner\*, Fabien Despinoy, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2024.
 
 [Recent Trends in Insect and Robot Navigation through the Lens of Reinforcement Learning](https://arxiv.org/abs/2406.01501), Stephan Lochner, Daniel Honerkamp, Abhinav Valada, Andrew D Straw, _Frontiers in Computational Neuroscience_, 2024.
 
