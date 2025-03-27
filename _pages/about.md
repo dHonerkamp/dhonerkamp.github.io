@@ -33,6 +33,7 @@ an environment during my PhD.
 
 [Recent Trends in Insect and Robot Navigation through the Lens of Reinforcement Learning](https://arxiv.org/abs/2406.01501), Stephan Lochner, Daniel Honerkamp, Abhinav Valada, Andrew D Straw, _Frontiers in Computational Neuroscience_, 2024.
 
+<img style="float: right; padding:0px" src="images/perception.png" height="200px" width="180px" border="1px">
 [Perception Matters: Enhancing Embodied AI with Uncertainty‑Aware Semantic Segmentation](https://semantic-search.cs.uni-freiburg.de/), Sai Prasanna\*, Daniel Honerkamp\*, Kshitij Sirohi\*, Tim Welschehold, Wolfram Burgard, Abhinav Valada, _Robotics Research_, 2024.
 
 <img style="float: left; padding:5px" src="images/n2m2.jpg" height="200px" width="180px" border="1px">
