@@ -21,6 +21,10 @@ an environment during my PhD.
 
 # Publications
 
+<img style="float: right;" src="images/profile2.png" width="200"> asdasdsadds
+
+<img style="display: block; margin: auto;" src="images/profile2.png" width="200"/> asdcsdcscs
+
 [Task-Driven Co-Design of Mobile Manipulators](https://moma-codesign.cs.uni-freiburg.de/), Raphael Schneider\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _arXiv preprint arXiv:2412.16635_, 2024.
 
 [Whole‑Body Teleoperation for Mobile Manipulation at Zero Added Cost](https://moma-teleop.cs.uni-freiburg.de/), Daniel Honerkamp\*, Harsh Mahesheka\*, Jan Ole Hartz, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2025.
