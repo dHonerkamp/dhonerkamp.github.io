@@ -40,11 +40,12 @@ an environment during my PhD.
 
 [Learning Hierarchical Interactive Multi‑Object Search for Mobile Manipulation](https://himos.cs.uni-freiburg.de/), Fabian Schmalstieg\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2023.
 
+<img style="float: left; padding:0px" src="images/dav-nav.png" height="200px" width="180px" border="1px">
 [Catch Me if You Hear Me: Audio‑Visual Navigation in Complex Unmapped Environments With Moving Sounds](https://dav-nav.cs.uni-freiburg.de/), Abdelrahman Younes\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2023.
 
 [Learning Long‑Horizon Robot Exploration Strategies for Multi‑Object Search in Continuous Action Spaces](https://multi-object-search.cs.uni-freiburg.de/), Fabian Schmalstieg\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _Robotics Research_, 2022.
 
-<img style="float: left; padding:5px" src="images/apfn.png" height="200px" width="180px" border="1px">
+<img style="float: left; padding:0px" src="images/apfn.png" height="200px" width="180px" border="1px">
 [Active Particle Filter Networks: Efficient Active Localization in Continuous Action Spaces and Large Maps](https://apfn.cs.uni-freiburg.de/), Daniel Honerkamp, Suresh Guttikonda, Abhinav Valada, _IROS Workshop on Probabilistic Robotics in the Age of Deep Learning_, 2022.
 <br/><br/>
 
@@ -54,17 +55,13 @@ an environment during my PhD.
 Democratising blockchain: A minimal agency consensus model, Marcin Abram, Daniel Honerkamp, Jon Ward, Jin‑Mann Wong,
 _Proceedings of Tokenomics International Conference on Blockchain Economics, Security and Protocols_, 2019.
 
-# Prices and Awards
+# Awards
 
-[3rd place Futureprice (”Zukunftspreis”)](https://www.stiftung-ewaldmarquardt.de/de/der_zukunftspreis/preisverleihung_2023), Ewald Marquardt Foundation, 5,000 EUR. For progress and innovation in the generation and coordination of mobile manipulation motions, 2023.
-
-[Best Paper Award](https://mobile-manipulation.net/events/moma2022/), IROS 2022 Workshop on Mobile Manipulation and Embodied Intelligence, 2022.
-
-[SoundSpaces Challenge - 2nd Place](https://soundspaces.org/challenge). Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2022.
-
-[SoundSpaces Challenge - 1st Place](https://soundspaces.org/challenge). Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2021.
-
-Dean’s List Award, University College London (UCL), 2018. 
+- [3rd place Futureprice (”Zukunftspreis”)](https://www.stiftung-ewaldmarquardt.de/de/der_zukunftspreis/preisverleihung_2023), Ewald Marquardt Foundation, 5,000 EUR. For progress and innovation in the generation and coordination of mobile manipulation motions, 2023.
+- [Best Paper Award](https://mobile-manipulation.net/events/moma2022/), IROS 2022 Workshop on Mobile Manipulation and Embodied Intelligence, 2022.
+- [SoundSpaces Challenge - 2nd Place](https://soundspaces.org/challenge). Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2022.
+- [SoundSpaces Challenge - 1st Place](https://soundspaces.org/challenge). Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2021.
+- Dean’s List Award, University College London (UCL), 2018. 
 
 [//]: # (A data-driven personal website)
 
