@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Daniel Honerkamp"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,16 +21,21 @@ an environment during my PhD.
 
 # Publications
 
+<img style="float: right" src="images/moma-codesign.png" height="200px" width="180px" border="3px">
 [Task-Driven Co-Design of Mobile Manipulators](https://moma-codesign.cs.uni-freiburg.de/), Raphael Schneider\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _arXiv preprint arXiv:2412.16635_, 2024.
 
+<img style="float: left" src="images/moma-teleop.png" width="180px" border="1px">
 [Whole‑Body Teleoperation for Mobile Manipulation at Zero Added Cost](https://moma-teleop.cs.uni-freiburg.de/), Daniel Honerkamp\*, Harsh Mahesheka\*, Jan Ole Hartz, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2025.
+<br/><br/>
 
-<img style="float: right;" src="images/moma-llm.png" height="200"> [Language‑Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation](https://moma-llm.cs.uni-freiburg.de/), Daniel Honerkamp\*, Martin Büchner\*, Fabien Despinoy, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2024.
+<img style="float: right" src="images/moma-llm2.png" height="200px" width="180px" border="3px">
+[Language‑Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation](https://moma-llm.cs.uni-freiburg.de/), Daniel Honerkamp\*, Martin Büchner\*, Fabien Despinoy, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2024.
 
 [Recent Trends in Insect and Robot Navigation through the Lens of Reinforcement Learning](https://arxiv.org/abs/2406.01501), Stephan Lochner, Daniel Honerkamp, Abhinav Valada, Andrew D Straw, _Frontiers in Computational Neuroscience_, 2024.
 
 [Perception Matters: Enhancing Embodied AI with Uncertainty‑Aware Semantic Segmentation](https://semantic-search.cs.uni-freiburg.de/), Sai Prasanna\*, Daniel Honerkamp\*, Kshitij Sirohi\*, Tim Welschehold, Wolfram Burgard, Abhinav Valada, _Robotics Research_, 2024.
 
+<img style="float: left; padding:5px" src="images/n2m2.jpg" height="200px" width="180px" border="1px">
 [N2M2: Learning Navigation for Arbitrary Mobile Manipulation Motions in Unseen and Dynamic Environments](https://mobile-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, _IEEE Transactions on Robotics (T‑RO)_, 2023.
 
 [Learning Hierarchical Interactive Multi‑Object Search for Mobile Manipulation](https://himos.cs.uni-freiburg.de/), Fabian Schmalstieg\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2023.
