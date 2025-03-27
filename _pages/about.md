@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student at the ELLIS [Robot Learning Lab](https://rl.uni-freiburg.de/) at the University of Freiburg. My
-research interests are focused on reinforcement learning, embodied AI and robotics, though much more broadly I am
+research interests are focused on reinforcement learning, embodied AI and robotics. In my work, I aim to enable mobile manipulation in unknown and unstructured environments. Much more broadly I am
 interested in topics including, but not limited to, decision making, planning and multi-agent systems.
 
 In the past I have worked across all aspects of autonomous agents and their environments. After studying economics
@@ -21,25 +21,27 @@ an environment during my PhD.
 
 # Publications
 
-[Zero‑Cost Whole‑Body Teleoperation for Mobile Manipulation](http://moma-teleop.cs.uni-freiburg.de/), Daniel Honerkamp\*, Harsh Mahesheka\*, Jan Ole Hartz, Tim Welschehold, Abhinav Valada, arXiv preprint arXiv:2409.15095, 2024.
+[Task-Driven Co-Design of Mobile Manipulators](https://moma-codesign.cs.uni-freiburg.de/), Raphael Schneider\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, arXiv preprint arXiv:2412.16635, 2024.
 
-[Language‑Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation](http://moma-llm.cs.uni-freiburg.de/), Daniel Honerkamp\*, Martin Büchner\*, Fabien Despinoy, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters, presentation at ICRA, 2024.
+[Whole‑Body Teleoperation for Mobile Manipulation at Zero Added Cost](https://moma-teleop.cs.uni-freiburg.de/), Daniel Honerkamp\*, Harsh Mahesheka\*, Jan Ole Hartz, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters, 2025.
+
+[Language‑Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation](https://moma-llm.cs.uni-freiburg.de/), Daniel Honerkamp\*, Martin Büchner\*, Fabien Despinoy, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters, presentation at ICRA, 2024.
 
 [Recent Trends in Insect and Robot Navigation through the Lens of Reinforcement Learning](https://arxiv.org/abs/2406.01501), Stephan Lochner, Daniel Honerkamp, Abhinav Valada, Andrew D Straw, Frontiers in Computational Neuroscience, 2024.
 
-[Perception Matters: Enhancing Embodied AI with Uncertainty‑Aware Semantic Segmentation](http://semantic-search.cs.uni-freiburg.de/), Sai Prasanna\*, Daniel Honerkamp\*, Kshitij Sirohi\*, Tim Welschehold, Wolfram Burgard, Abhinav Valada, Proceedings of the International Symposium on Robotics Research (ISRR), 2024.
+[Perception Matters: Enhancing Embodied AI with Uncertainty‑Aware Semantic Segmentation](https://semantic-search.cs.uni-freiburg.de/), Sai Prasanna\*, Daniel Honerkamp\*, Kshitij Sirohi\*, Tim Welschehold, Wolfram Burgard, Abhinav Valada, Robotics Research, presented at ISRR, 2024.
 
-[N2M2: Learning Navigation for Arbitrary Mobile Manipulation Motions in Unseen and Dynamic Environments](http://mobile-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, IEEE Transactions on Robotics (T‑RO), presentated at ICRA, 2023.
+[N2M2: Learning Navigation for Arbitrary Mobile Manipulation Motions in Unseen and Dynamic Environments](https://mobile-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, IEEE Transactions on Robotics (T‑RO), presentated at ICRA, 2023.
 
-[Learning Hierarchical Interactive Multi‑Object Search for Mobile Manipulation](http://himos.cs.uni-freiburg.de/), Fabian Schmalstieg\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters (RA‑L), presentated at ICRA, 2023.
+[Learning Hierarchical Interactive Multi‑Object Search for Mobile Manipulation](https://himos.cs.uni-freiburg.de/), Fabian Schmalstieg\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters (RA‑L), presentated at ICRA, 2023.
 
-[Catch Me if You Hear Me: Audio‑Visual Navigation in Complex Unmapped Environments With Moving Sounds](http://dav-nav.cs.uni-freiburg.de/), Abdelrahman Younes\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters (RA‑L), presentated at IROS, 2023.
+[Catch Me if You Hear Me: Audio‑Visual Navigation in Complex Unmapped Environments With Moving Sounds](https://dav-nav.cs.uni-freiburg.de/), Abdelrahman Younes\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters (RA‑L), presentated at IROS, 2023.
 
-[Learning Long‑Horizon Robot Exploration Strategies for Multi‑Object Search in Continuous Action Spaces](http://multi-object-search.cs.uni-freiburg.de/), Fabian Schmalstieg\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, Robotics Research, presented at ISRR, 2022.
+[Learning Long‑Horizon Robot Exploration Strategies for Multi‑Object Search in Continuous Action Spaces](https://multi-object-search.cs.uni-freiburg.de/), Fabian Schmalstieg\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, Robotics Research, presented at ISRR, 2022.
 
-[Active Particle Filter Networks: Efficient Active Localization in Continuous Action Spaces and Large Maps](http://apfn.cs.uni-freiburg.de/), Daniel Honerkamp, Suresh Guttikonda, Abhinav Valada, IROS Workshop on Probabilistic Robotics in the Age of Deep Learning, 2022.
+[Active Particle Filter Networks: Efficient Active Localization in Continuous Action Spaces and Large Maps](https://apfn.cs.uni-freiburg.de/), Daniel Honerkamp, Suresh Guttikonda, Abhinav Valada, IROS Workshop on Probabilistic Robotics in the Age of Deep Learning, 2022.
 
-[Learning Kinematic Feasibility for Mobile Manipulation through Deep Reinforcement Learning](http://kinematic-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters (RA‑L), 2021.
+[Learning Kinematic Feasibility for Mobile Manipulation through Deep Reinforcement Learning](https://kinematic-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters (RA‑L), 2021.
 
 Democratising blockchain: A minimal agency consensus model, Marcin Abram, Daniel Honerkamp, Jon Ward, Jin‑Mann Wong,
 Proceedings of Tokenomics International Conference on Blockchain Economics, Security and Protocols, 2019.
