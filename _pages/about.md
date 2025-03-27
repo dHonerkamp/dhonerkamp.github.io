@@ -44,8 +44,11 @@ an environment during my PhD.
 
 [Learning Long‑Horizon Robot Exploration Strategies for Multi‑Object Search in Continuous Action Spaces](https://multi-object-search.cs.uni-freiburg.de/), Fabian Schmalstieg\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _Robotics Research_, 2022.
 
+<img style="float: left; padding:5px" src="images/apfn.png" height="200px" width="180px" border="1px">
 [Active Particle Filter Networks: Efficient Active Localization in Continuous Action Spaces and Large Maps](https://apfn.cs.uni-freiburg.de/), Daniel Honerkamp, Suresh Guttikonda, Abhinav Valada, _IROS Workshop on Probabilistic Robotics in the Age of Deep Learning_, 2022.
+<br/><br/>
 
+<img style="float: right" src="images/kinematic_feasibility.png" height="200px" width="180px" border="3px">
 [Learning Kinematic Feasibility for Mobile Manipulation through Deep Reinforcement Learning](https://kinematic-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2021.
 
 Democratising blockchain: A minimal agency consensus model, Marcin Abram, Daniel Honerkamp, Jon Ward, Jin‑Mann Wong,
