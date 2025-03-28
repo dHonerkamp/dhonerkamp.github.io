@@ -53,7 +53,7 @@ an environment during my PhD.
 <img style="float: right" src="images/kinematic_feasibility.png" height="200px" width="180px" border="3px">
 [Learning Kinematic Feasibility for Mobile Manipulation through Deep Reinforcement Learning](https://kinematic-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2021.
 
-Democratising blockchain: A minimal agency consensus model, Marcin Abram, Daniel Honerkamp, Jon Ward, Jin‑Mann Wong,
+<ins>Democratising blockchain: A minimal agency consensus model</ins>, Marcin Abram, Daniel Honerkamp, Jon Ward, Jin‑Mann Wong,
 _Proceedings of Tokenomics International Conference on Blockchain Economics, Security and Protocols_, 2019.
 
 # Awards
