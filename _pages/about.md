@@ -24,31 +24,32 @@ an environment during my PhD.
 <img style="float: right" src="images/moma-codesign.png" height="200px" width="180px" border="3px">
 [Task-Driven Co-Design of Mobile Manipulators](https://moma-codesign.cs.uni-freiburg.de/), Raphael Schneider\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _arXiv preprint arXiv:2412.16635_, 2024.
 
-<img style="float: left" src="images/moma-teleop.png" width="180px" border="1px">
+<img style="float: left; padding-right:10px" src="images/moma-teleop.png" width="180px" border="1px">
 [Whole‑Body Teleoperation for Mobile Manipulation at Zero Added Cost](https://moma-teleop.cs.uni-freiburg.de/), Daniel Honerkamp\*, Harsh Mahesheka\*, Jan Ole Hartz, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2025.
-<br/><br/>
 
 <img style="float: right" src="images/moma-llm2.png" height="200px" width="180px" border="3px">
 [Language‑Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation](https://moma-llm.cs.uni-freiburg.de/), Daniel Honerkamp\*, Martin Büchner\*, Fabien Despinoy, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2024.
 
+<img style="float: left; padding:5px" src="images/insects.png" width="180px" border="1px">
 [Recent Trends in Insect and Robot Navigation through the Lens of Reinforcement Learning](https://arxiv.org/abs/2406.01501), Stephan Lochner, Daniel Honerkamp, Abhinav Valada, Andrew D Straw, _Frontiers in Computational Neuroscience_, 2024.
 
 <img style="float: right; padding:0px" src="images/perception.png" height="200px" width="180px" border="1px">
 [Perception Matters: Enhancing Embodied AI with Uncertainty‑Aware Semantic Segmentation](https://semantic-search.cs.uni-freiburg.de/), Sai Prasanna\*, Daniel Honerkamp\*, Kshitij Sirohi\*, Tim Welschehold, Wolfram Burgard, Abhinav Valada, _Robotics Research_, 2024.
 
-<img style="float: left; padding:5px" src="images/n2m2.jpg" height="200px" width="180px" border="1px">
+<img style="float: left; padding-right:5px" src="images/n2m2.jpg" height="200px" width="180px" border="1px">
 [N2M2: Learning Navigation for Arbitrary Mobile Manipulation Motions in Unseen and Dynamic Environments](https://mobile-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, _IEEE Transactions on Robotics (T‑RO)_, 2023.
 
+<img style="float: right; padding:0px" src="images/himos.png" height="200px" width="140px" border="1px">
 [Learning Hierarchical Interactive Multi‑Object Search for Mobile Manipulation](https://himos.cs.uni-freiburg.de/), Fabian Schmalstieg\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2023.
 
 <img style="float: left; padding:0px" src="images/dav-nav.png" height="200px" width="180px" border="1px">
 [Catch Me if You Hear Me: Audio‑Visual Navigation in Complex Unmapped Environments With Moving Sounds](https://dav-nav.cs.uni-freiburg.de/), Abdelrahman Younes\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2023.
 
+<img style="float: right; padding:0px" src="images/search.png" height="200px" width="180px" border="1px">
 [Learning Long‑Horizon Robot Exploration Strategies for Multi‑Object Search in Continuous Action Spaces](https://multi-object-search.cs.uni-freiburg.de/), Fabian Schmalstieg\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _Robotics Research_, 2022.
 
-<img style="float: left; padding:0px" src="images/apfn.png" height="200px" width="180px" border="1px">
+<img style="float: left; padding-right:1px" src="images/apfn.png" height="200px" width="180px" border="1px">
 [Active Particle Filter Networks: Efficient Active Localization in Continuous Action Spaces and Large Maps](https://apfn.cs.uni-freiburg.de/), Daniel Honerkamp, Suresh Guttikonda, Abhinav Valada, _IROS Workshop on Probabilistic Robotics in the Age of Deep Learning_, 2022.
-<br/><br/>
 
 <img style="float: right" src="images/kinematic_feasibility.png" height="200px" width="180px" border="3px">
 [Learning Kinematic Feasibility for Mobile Manipulation through Deep Reinforcement Learning](https://kinematic-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2021.
