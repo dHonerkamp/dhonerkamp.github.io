@@ -63,7 +63,7 @@ an environment during my PhD.
 <ins>Democratising blockchain: A minimal agency consensus model</ins>, Marcin Abram, Daniel Honerkamp, Jon Ward, Jin‑Mann Wong,
 _Proceedings of Tokenomics International Conference on Blockchain Economics, Security and Protocols_, 2019.
 
-# Awards
+## Awards
 
 - [3rd place Futureprice (”Zukunftspreis”)](https://www.stiftung-ewaldmarquardt.de/de/der_zukunftspreis/preisverleihung_2023), Ewald Marquardt Foundation, 5,000 EUR. For progress and innovation in the generation and coordination of mobile manipulation motions, 2023.
 - [Best Paper Award](https://mobile-manipulation.net/events/moma2022/), IROS 2022 Workshop on Mobile Manipulation and Embodied Intelligence, 2022.
