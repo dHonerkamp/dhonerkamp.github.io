@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Embodied AI in Unknown and Open Worlds"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,7 +18,14 @@ an environment during my PhD.
 
 [//]: # (Note that the remainder of this site is still WIP. Until then please refer to my [google scholar]&#40;https://scholar.google.com/citations?user=Ian_c5AAAAAJ&hl=en&#41; and [university profile page]&#40;https://rl.uni-freiburg.de/people/honerkamp&#41; for recent works.)
 
-# Publications
+<video controls autoplay>
+  <source src="images/articulated-compilation.mp4" type="video/mp4" style="width: 10%; height: auto;">
+  <!-- <source src="movie.ogg" type="video/ogg"> -->
+  Your browser does not support the video tag.
+</video> 
+
+
+## Publications
 
 <img style="float: right" src="images/moma-codesign.png" height="200px" width="180px" border="3px">
 [Task-Driven Co-Design of Mobile Manipulators](https://moma-codesign.cs.uni-freiburg.de/), Raphael Schneider\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _arXiv preprint arXiv:2412.16635_, 2024.
