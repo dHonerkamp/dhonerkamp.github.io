@@ -27,6 +27,9 @@ an environment during my PhD.
 
 ## Publications
 
+<img style="float: right" src="images/MORE.png" height="200px" width="180px" border="3px">
+[MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning](https://more-model.cs.uni-freiburg.de/), Mohammad Mohammadi\*, Daniel Honerkamp\*, Martin Büchner\*, Matteo Cassinelli\*, Tim Welschehold, Fabien Despinoy, Igor Gilitschenski, Abhinav Valada, _arXiv preprint arXiv:2505.03035_, 2025.
+
 <img style="float: right" src="images/moma-codesign.png" height="200px" width="180px" border="3px">
 [Task-Driven Co-Design of Mobile Manipulators](https://moma-codesign.cs.uni-freiburg.de/), Raphael Schneider\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _arXiv preprint arXiv:2412.16635_, 2024.
 
