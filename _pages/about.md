@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the ELLIS [Robot Learning Lab](https://rl.uni-freiburg.de/) at the University of Freiburg. My
+I am a PhD student at the ELLIS [Robot Learning Lab](https://rl.uni-freiburg.de/) at the University of Freiburg and [2025 RSS Pioneer](https://sites.google.com/view/rsspioneers2025/participants). My
 research interests are focused on reinforcement learning, embodied AI and robotics. In my work, I enable mobile manipulation in unknown and unstructured environments. Much more broadly I am interested in all topics surrounding motion generation, autonomy and machine learning in unknown and open worlds.
 
 In the past I have worked across all aspects of autonomous agents and their environments. After studying economics
@@ -65,6 +65,7 @@ _Proceedings of Tokenomics International Conference on Blockchain Economics, Sec
 
 ## Awards
 
+- [Robotics: Science and Systems (RSS) Pioneer](https://sites.google.com/view/rsspioneers2025/participants), for world’s top early career researchers in robotics, 2025.
 - [3rd place Futureprice (”Zukunftspreis”)](https://www.stiftung-ewaldmarquardt.de/de/der_zukunftspreis/preisverleihung_2023), Ewald Marquardt Foundation, 5,000 EUR. For progress and innovation in the generation and coordination of mobile manipulation motions, 2023.
 - [Best Paper Award](https://mobile-manipulation.net/events/moma2022/), IROS 2022 Workshop on Mobile Manipulation and Embodied Intelligence, 2022.
 - [SoundSpaces Challenge - 2nd Place](https://soundspaces.org/challenge). Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2022.
