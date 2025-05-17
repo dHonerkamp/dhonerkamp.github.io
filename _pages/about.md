@@ -31,7 +31,7 @@ an environment during my PhD.
 [MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning](https://more-model.cs.uni-freiburg.de/), Mohammad Mohammadi\*, Daniel Honerkamp\*, Martin Büchner\*, Matteo Cassinelli\*, Tim Welschehold, Fabien Despinoy, Igor Gilitschenski, Abhinav Valada, _arXiv preprint arXiv:2505.03035_, 2025.
 
 <img style="float: right" src="images/moma-codesign.png" height="200px" width="180px" border="3px">
-[Task-Driven Co-Design of Mobile Manipulators](https://moma-codesign.cs.uni-freiburg.de/), Raphael Schneider\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, _arXiv preprint arXiv:2412.16635_, 2024.
+[Task-Driven Co-Design of Mobile Manipulators](https://moma-codesign.cs.uni-freiburg.de/), Raphael Schneider\*, Daniel Honerkamp\*, Tim Welschehold, Abhinav Valada, IEEE Robotics and Automation Letters (RA‑L), 2025.
 
 <img style="float: left; padding-right:10px" src="images/moma-teleop.png" width="180px" border="1px">
 [Whole‑Body Teleoperation for Mobile Manipulation at Zero Added Cost](https://moma-teleop.cs.uni-freiburg.de/), Daniel Honerkamp\*, Harsh Mahesheka\*, Jan Ole Hartz, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2025.
@@ -63,7 +63,7 @@ an environment during my PhD.
 <img style="float: right" src="images/kinematic_feasibility.png" height="200px" width="180px" border="3px">
 [Learning Kinematic Feasibility for Mobile Manipulation through Deep Reinforcement Learning](https://kinematic-rl.cs.uni-freiburg.de/), Daniel Honerkamp, Tim Welschehold, Abhinav Valada, _IEEE Robotics and Automation Letters (RA‑L)_, 2021.
 
-<ins>Democratising blockchain: A minimal agency consensus model</ins>, Marcin Abram, Daniel Honerkamp, Jon Ward, Jin‑Mann Wong,
+[Democratising blockchain: A minimal agency consensus model](https://arxiv.org/abs/2006.05390), Marcin Abram, Daniel Honerkamp, Jon Ward, Jin‑Mann Wong,
 _Proceedings of Tokenomics International Conference on Blockchain Economics, Security and Protocols_, 2019.
 
 ## Awards
