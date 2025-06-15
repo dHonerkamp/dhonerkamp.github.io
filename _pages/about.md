@@ -69,8 +69,9 @@ _Proceedings of Tokenomics International Conference on Blockchain Economics, Sec
 ## Awards
 
 - [Robotics: Science and Systems (RSS) Pioneer](https://sites.google.com/view/rsspioneers2025/participants), for world’s top early career researchers in robotics, 2025.
+- [Best Paper Finalist]([https://mobile-manipulation.net/events/moma2022/](https://sites.google.com/view/icra-2025-workshop/home)), ICRA 3rd Workshop on Human-Centric Multilateral Teleoperation, 2025.
 - [3rd place Futureprice (”Zukunftspreis”)](https://www.stiftung-ewaldmarquardt.de/de/der_zukunftspreis/preisverleihung_2023), Ewald Marquardt Foundation, 5,000 EUR. For progress and innovation in the generation and coordination of mobile manipulation motions, 2023.
-- [Best Paper Award](https://mobile-manipulation.net/events/moma2022/), IROS 2022 Workshop on Mobile Manipulation and Embodied Intelligence, 2022.
+- [Best Paper Award](https://mobile-manipulation.net/events/moma2022/), IROS Workshop on Mobile Manipulation and Embodied Intelligence, 2022.
 - [SoundSpaces Challenge - 2nd Place](https://soundspaces.org/challenge). Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2022.
 - [SoundSpaces Challenge - 1st Place](https://soundspaces.org/challenge). Conference on Computer Vision and Pattern Recognition (CVPR) Embodied AI Workshop, 2021.
 - Dean’s List Award, University College London (UCL), 2018. 
